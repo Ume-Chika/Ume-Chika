@@ -25,7 +25,7 @@
   
 ### 👋 **Hi, I'm Ume-Chika!**
 
-- 🌍 **Location** Japan 🇯🇵  
+- 🌍 **Location**: Japan 🇯🇵  
 + 💼 **Interests**: I love using my hands to create things!  
 - ☕ **Motivation**: Fun and new discoveries!  
 + 🎯 **Goal**: To keep on creating interesting and useful things!  
@@ -87,5 +87,5 @@
   **⭐ From [Ume-Chika](https://github.com/Ume-Chika) with ❤️**
 
   <!-- ここにポリシー -->
-  *"Flutter makes everything beautiful! 🦋"*
+  *"Curiosity is the ultimate compass！ 🧭"*
 </div>
