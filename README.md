@@ -22,6 +22,7 @@
 <br><strong>Python</strong>
 </td>
 <td width="400" align="left">
+  
 ### 👋 **Hi, I'm Ume-Chika!**
 🚀 **Python Developer** passionate about machine learning
 🌍 **Location** Japan 🇯🇵
