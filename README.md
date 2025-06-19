@@ -22,15 +22,6 @@
 <br><strong>Python</strong>
 </td>
 <td width="400" align="left">
-
-### 👋 **Hi, I'm Ume-Chika!**
-🚀 **Python Developer** passionate about mobile development  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
-
 ### 👋 **Hi, I'm Ume-Chika!**
 🚀 **Python Developer** passionate about machine learning
 🌍 **Location** Japan 🇯🇵
