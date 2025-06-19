@@ -24,10 +24,9 @@
 <td width="400" align="left">
   
 ### 👋 **Hi, I'm Ume-Chika!**
-🚀 **Python Developer** passionate about machine learning  
 
 - 🌍 **Location** Japan 🇯🇵  
-- 💼 **Interests**: I love using my hands to create things!  
++ 💼 **Interests**: I love using my hands to create things!  
 - ☕ **Motivation**: Fun and new discoveries!  
 + 🎯 **Goal**: To keep on creating interesting and useful things!  
 
