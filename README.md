@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ume-Chika&custom_title=Ume-Chika's%20GitHub%20Activity%20Graph&bg_color=10104400&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
-<!--
+
 ## 🛠️ **Tech Stack**
 
 <table align="center">
@@ -76,7 +76,6 @@
 </td>
 </tr>
 </table>
--->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer&animation=twinkling" />
