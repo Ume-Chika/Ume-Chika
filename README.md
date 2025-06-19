@@ -87,5 +87,5 @@
   **⭐ From [Ume-Chika](https://github.com/Ume-Chika) with ❤️**
 
   <!-- ここにポリシー -->
-  *"Curiosity is the ultimate compass！ 🧭"*
+  *"Curiosity is the ultimate compass."*
 </div>
