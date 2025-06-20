@@ -55,7 +55,7 @@
 ### 🧠 **Machine Learning**
 <img src="https://skillicons.dev/icons?i=python" />
 <br>
-**numpy, pytorch, matplotlib**
+numpy, pytorch, matplotlib
 
 ### 🤖 **Hardware / IoT**
 <img src="https://skillicons.dev/icons?i=arduino,c" />
