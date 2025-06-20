@@ -39,7 +39,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ume-Chika&theme=transparent&border_radius=10&starting_year=2024" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ume-Chika&theme=transparent&border_radius=10 alt="readme streak stats" />
 </div>
 
 <div align="center">
