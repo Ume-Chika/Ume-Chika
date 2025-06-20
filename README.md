@@ -58,7 +58,7 @@
 numpy, pytorch, matplotlib
 
 ### 🤖 **Hardware / IoT**
-<img src="https://skillicons.dev/icons?i=c, arduino" />
+<img src="https://skillicons.dev/icons?i=c,arduino" />
 <br>
 M5AtomS3
 
