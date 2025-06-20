@@ -55,28 +55,31 @@
 ### 🧠 **Machine Learning**
 <img src="https://skillicons.dev/icons?i=python" />
 <br>
-with numpy, pytorch, matplotlib
+numpy, pytorch, matplotlib
 
 ### 🤖 **Hardware / IoT**
 <img src="https://skillicons.dev/icons?i=c, arduino" />
 <br>
-with M5AtomS3
+M5AtomS3
 
 ### 🌐 **Web & Content**
 <img src="https://skillicons.dev/icons?i=wordpress,html,js" />
 <br>
-with Xserver
+Xserver
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🎮 **Software Development**
-<img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,java" />
+<img src="https://skillicons.dev/icons?i=visualstudio,dotnet,java" />
 <br>
-*(VB.NETでのゲーム開発経験)*
 
 ### 🔧 **Development Tools**
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### 🌟 **Learning**
+<img src="https://skillicons.dev/icons?i=unity, cs, mysql" />
+<br>
 
 </td>
 </tr>
