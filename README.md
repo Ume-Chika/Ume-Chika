@@ -78,7 +78,7 @@ Xserver
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### 🌟 **Learning**
-<img src="https://skillicons.dev/icons?i=unity, cs, mysql" />
+<img src="https://skillicons.dev/icons?i=unity,cs,mysql" />
 <br>
 
 </td>
