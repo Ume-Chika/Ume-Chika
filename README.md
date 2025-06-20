@@ -52,26 +52,31 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 🧠 **Machine Learning**
+<img src="https://skillicons.dev/icons?i=python,pytorch,keras,numpy" />
+<br>
+*(matplotlib, Google Colab)*
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+### 🤖 **Hardware / IoT**
+<img src="https://skillicons.dev/icons?i=arduino,c" />
+<br>
+*(M5AtomS3)*
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+### 🌐 **Web & Content**
+<img src="https://skillicons.dev/icons?i=wordpress,html,js" />
+<br>
+*(Xserver)*
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+### 🎮 **Software Development**
+<img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,java" />
+<br>
+*(VB.NETでのゲーム開発経験)*
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 🔧 **Development Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </td>
 </tr>
