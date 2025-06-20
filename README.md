@@ -53,9 +53,9 @@
 <td width="50%" align="center" valign="top">
 
 ### 🧠 **Machine Learning**
-<img src="https://skillicons.dev/icons?i=python,pytorch,keras,numpy" />
+<img src="https://skillicons.dev/icons?i=python" />
 <br>
-*(matplotlib, Google Colab)*
+**numpy, pytorch, matplotlib**
 
 ### 🤖 **Hardware / IoT**
 <img src="https://skillicons.dev/icons?i=arduino,c" />
