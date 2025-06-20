@@ -55,17 +55,17 @@
 ### 🧠 **Machine Learning**
 <img src="https://skillicons.dev/icons?i=python" />
 <br>
-numpy, pytorch, matplotlib
+with numpy, pytorch, matplotlib
 
 ### 🤖 **Hardware / IoT**
-<img src="https://skillicons.dev/icons?i=arduino,c" />
+<img src="https://skillicons.dev/icons?i=c, arduino" />
 <br>
-*(M5AtomS3)*
+with M5AtomS3
 
 ### 🌐 **Web & Content**
 <img src="https://skillicons.dev/icons?i=wordpress,html,js" />
 <br>
-*(Xserver)*
+with Xserver
 
 </td>
 <td width="50%" align="center" valign="top">
