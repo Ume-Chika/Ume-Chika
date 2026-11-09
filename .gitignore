@@ -1,0 +1,35 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Dependencies & Build outputs
+node_modules/
+dist/
+*.tsbuildinfo
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local environment & secrets
+*.local
+*.local.md
+PROJECTS_LOCAL.md
+.env
+.env.*
+
+# Media & Private assets
+movie/
+*.mov
+*.mp4
+*.webm
+
+# AI Agents & internal scratchpads
+AGENTS.md
+.agents/
+docs_internal/
+scratch/
+stage1_vanilla/
